@@ -179,7 +179,7 @@ def handle_user_question(user_message):
         return "저는 따릉이 관련 질문에만 답변할 수 있습니다."
 
 def main():
-    st.title("따릉이 정보 제공 챗봇")
+    st.title("따릉이 챗봇")
     user_message = st.text_input("질문을 입력하세요:", "")
     
     if st.button("제출"):
