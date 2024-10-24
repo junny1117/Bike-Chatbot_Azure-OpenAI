@@ -42,7 +42,7 @@ Microsoft Azure OpenAI, Streamlit을 활용한 따릉이 정보 챗봇
 
 ## 파일 목록
 
-### app_bike.py - 메인 코드 파일
+### app_bike.py - 챗봇 코드 파일
 ### bike_stations.db - 대여소 데이터베이스
 ### update-station.py - 대여소 목록 업데이트 파일
 
