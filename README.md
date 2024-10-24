@@ -47,5 +47,5 @@ Microsoft Azure OpenAI, Streamlit을 활용한 따릉이 정보 챗봇
 ### update-station.py - 대여소 목록 업데이트 파일
 
 ## 실행결과 이미지
-![스크린샷 2024-10-18 144733](https://github.com/user-attachments/assets/6e7cd5a0-fe2d-405b-b5c3-92426e3a45df)
-![스크린샷 2024-10-18 144827](https://github.com/user-attachments/assets/f4d1d797-9b81-4441-acb2-f4169ddd90d5)
+![스크린샷 2024-10-24 172003](https://github.com/user-attachments/assets/bca2122f-70f8-4bba-9cac-ea25753b6c9e)
+![스크린샷 2024-10-24 172047](https://github.com/user-attachments/assets/b92a3b69-0380-4fba-8ec2-af67d9625576)
