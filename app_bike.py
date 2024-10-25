@@ -183,7 +183,6 @@ def main():
     user_message = st.text_input("질문을 입력하세요:", "")
     
     if st.button("제출"):
-        # 자전거 수 업데이트
         update_bike_counts()
         
         response_message = handle_user_question(user_message)
