@@ -46,6 +46,6 @@ Microsoft Azure OpenAI, Streamlit을 활용한 따릉이 정보 챗봇
 ### bike_stations.db - 대여소 데이터베이스
 ### update-station.py - 대여소 목록 업데이트 파일
 
-## 실행결과 이미지
+## 챗봇 실행결과 이미지
 ![스크린샷 2024-10-24 172003](https://github.com/user-attachments/assets/bca2122f-70f8-4bba-9cac-ea25753b6c9e)
 ![스크린샷 2024-10-24 172047](https://github.com/user-attachments/assets/b92a3b69-0380-4fba-8ec2-af67d9625576)
