@@ -3,6 +3,8 @@
 
 Microsoft Azure OpenAI, Streamlit을 활용한 따릉이 정보 챗봇
 
+**Microsoft 클라우드 AI 해커톤 경진대회 (Azure Cloud 활용 AI 구현) 장려상 수상작**
+
 ## 구현 사항
 ### 대여소 목록 갱신
 - **데이터 수신** - 서울시 열린데이터 광장에서 제공하는 [서울시 공공자전거 실시간 대여정보 API](https://data.seoul.go.kr/dataList/OA-15493/A/1/datasetView.do)에서 대여소이름, 위도, 경도 수집
