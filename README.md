@@ -1,9 +1,8 @@
 # Bike-Chatbot_Azure-OpenAI
+**Microsoft 클라우드 AI 해커톤 경진대회 (Azure Cloud 활용 AI 구현) 장려상 수상작**
 ## 개요
 
 Microsoft Azure OpenAI, Streamlit을 활용한 따릉이 정보 챗봇
-
-**Microsoft 클라우드 AI 해커톤 경진대회 (Azure Cloud 활용 AI 구현) 장려상 수상작**
 
 ## 구현 사항
 ### 대여소 목록 갱신
