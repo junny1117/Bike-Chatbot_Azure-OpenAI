@@ -37,7 +37,7 @@ Microsoft Azure OpenAI, Streamlit을 활용한 따릉이 정보 챗봇
 - **SQLite**: 자전거 대여소 정보를 저장하는 데이터베이스.
 - **Sentence Transformers**: 문장 유사도 계산을 위해 문장을 백터로 변환.
 - **CountVectorizer**: 문장 유사도 계산을 위한 n-그램 생성
-- **Microsoft Azure OpenAI GPT4o**: 언어모델
+- **Azure OpenAI GPT4o**: 언어모델
 - **Visual Studio Code**: 코드 작성
 - **Windows**: 운영체제
 
