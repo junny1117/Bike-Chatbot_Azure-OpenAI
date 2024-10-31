@@ -2,7 +2,6 @@ import requests
 import json
 import sqlite3
 import streamlit as st
-from sentence_transformers import SentenceTransformer, util
 from sklearn.feature_extraction.text import CountVectorizer
 
 endpoint = "https://st035-openai.openai.azure.com/"
